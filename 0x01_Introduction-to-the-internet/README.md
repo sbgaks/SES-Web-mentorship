@@ -5,8 +5,8 @@ With SES,I believe I have a chance at rekindling the motivation and grow as a **
 
 Through this ***3-month journey*** I'll be putting on record every step of it here on my Github account to track _my progress_. I am looking forward to gain the following skills:
 1. HTML
-   -Basic syntax
-    -Forms and validation
+   - Basic syntax
+     - Forms and validation
 2. CSS
    -Styling
     -Website Layout
