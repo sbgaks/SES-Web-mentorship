@@ -4,21 +4,21 @@ Finally it has started, my journey towards becoming a full stack web developer. 
 With SES,I believe I have a chance at rekindling the motivation and grow as a **WEB DEVELOPER**. I also want to channel my art into web development by creating web applications that are **AESTHETIC** :laughing:.
 
 Through this ***3-month journey*** I'll be putting on record every step of it here on my Github account to track _my progress_. I am looking forward to gain the following skills:
-- HTML
+1. HTML
    -Basic syntax
     -Forms and validation
-+ CSS
+2. CSS
    -Styling
     -Website Layout
      -Responsiveness
-* JavaScript
+3. JavaScript
    -Functions
     -Objects
-- React
+4. React
 
 I am also using complementary learning sources such as [W3 SCHOOLS](https://www.w3schools.com/js/default.asp).
 
-The qoutes that motivates me most is:
+The qoute that motivates me most is:
 "The hard days are what make you stronger.” ―Aly Raisman.
 
 **KWAHERI**:wave:
